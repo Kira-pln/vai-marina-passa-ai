@@ -338,7 +338,21 @@ No campo das teorias contemporâneas do desenvolvimento cognitivo, os processos 
 {
 "pergunta": """**Questão 12**
 
-Uma professora planejou visita ao museu considerando educação não formal. É correto afirmar:""",
+Uma professora da rede estadual planejou uma
+sequência didática sobre patrimônio cultural local que
+incluiria uma visita ao museu histórico da cidade.
+Durante o planejamento, ela considerou as dimensões
+pedagógicas dessa atividade extraescolar, as
+especificidades metodológicas da educação não formal e
+os desafios para sua efetivação. Ao fundamentar
+teoricamente sua proposta, a docente buscou
+compreender como os espaços extraescolares podem
+enriquecer o processo de ensino-aprendizagem, assim
+como suas particularidades em relação ao ambiente
+escolar formal. Considerando as discussões acadêmicas
+contemporâneas sobre a utilização pedagógica de
+espaços extraescolares e as potencialidades das
+atividades de campo, é correto afirmar que:""",
 "opcoes":[
 "Sem planejamento.",
 "Depende tecnologia.",
@@ -352,7 +366,42 @@ Uma professora planejou visita ao museu considerando educação não formal. É 
 {
 "pergunta": """**Questão 13**
 
-Sobre protagonismo juvenil:""",
+Durante uma reunião pedagógica, professores de uma
+escola estadual debatiam sobre as críticas recorrentes
+dos estudantes às aulas consideradas "chatas",
+"repetitivas" e "desinteressantes". Uma professora
+argumentou que tais manifestações não deveriam ser
+interpretadas como desinteresse ou apatia estudantil
+pela educação, mas sim como indicadores de demandas
+legítimas por transformações na organização escolar e
+nas práticas pedagógicas. Ela fundamentou sua posição
+em estudos recentes sobre protagonismo juvenil e
+participação estudantil, destacando a importância de
+compreender as críticas dos jovens como oportunidades
+para repensar a escola. Considerando as discussões
+acadêmicas contemporâneas sobre a relação entre
+juventude, participação e educação escolar, analise as
+afirmativas apresentadas a seguir:
+I.As críticas dos estudantes às atividades pedagógicas
+consideradas desinteressantes revelam o desejo de
+construir uma escola com relações menos
+hierarquizadas e conteúdos mais sintonizados com seu
+cotidiano, contrariando discursos que atribuem aos
+jovens apatia em relação à educação.
+II.O envolvimento dos estudantes em processos de
+reivindicação e discussão sobre a escola materializa
+práticas de socialização política que transcendem o
+ambiente familiar, demonstrando que múltiplas instâncias
+contribuem para a formação de disposições relacionadas
+ à participação coletiva.
+III.A expressão de insatisfação dos estudantes com
+metodologias tradicionais decorre fundamentalmente da
+expansão do acesso ao ensino médio, que incorporou
+novos perfis discentes ainda não familiarizados com os
+códigos e rituais escolares historicamente consolidados
+pelas instituições educacionais.
+ É correto o que se afirma em:
+:""",
 "opcoes":[
 "I e III.",
 "III.",
@@ -366,7 +415,46 @@ Sobre protagonismo juvenil:""",
 {
 "pergunta": """**Questão 14**
 
-Sobre metodologias de ensino:""",
+Em uma formação continuada sobre práticas
+pedagógicas na educação básica, professores de
+diferentes áreas do conhecimento debatiam abordagens
+metodológicas para o desenvolvimento de atividades de
+aprendizagem com seus estudantes. Uma das
+formadoras apresentou estudos contemporâneos sobre
+planejamento e organização do trabalho pedagógico,
+destacando a distinção entre práticas que privilegiam
+processos de construção de conhecimento e aquelas
+que se concentram em produtos finais isolados. Durante
+a discussão, foram apresentadas premissas
+fundamentais que orientam práticas pedagógicas mais
+significativas no desenvolvimento de competências e
+habilidades dos estudantes. Considerando as discussões
+acadêmicas contemporâneas sobre metodologias de
+ensino e organização do trabalho pedagógico, analise as
+afirmativas apresentadas a seguir:
+I.As atividades de aprendizagem devem ser
+compreendidas como trabalho processual que demanda
+tempo, organizando-se em sequências didáticas com
+etapas sucessivas que desenvolvem uma trajetória rumo
+ao conhecimento sistemático e consciente de todos os
+movimentos exigidos até a concretização dos objetivos
+educacionais pretendidos.
+II.As proposições de atividades pedagógicas devem ser
+apresentadas como problemas ou desafios
+investigativos, favorecendo que os estudantes
+estabeleçam conexões com experiências pessoais e
+culturais, em contraposição à apresentação de temas
+genéricos e abstratos com delimitação rígida de
+procedimentos e tempo de execução.
+III.A valorização excessiva dos aspectos formais e
+estruturais na abordagem das atividades de
+ensino-aprendizagem representa avanço metodológico
+significativo, pois permite que os estudantes construam
+separadamente os elementos constitutivos do
+conhecimento para posteriormente organizá-los em
+sínteses lineares e sequenciais.
+ É correto o que se afirma em:
+""",
 "opcoes":[
 "I e II.",
 "I, II e III.",
@@ -380,7 +468,40 @@ Sobre metodologias de ensino:""",
 {
 "pergunta": """**Questão 15**
 
-Sobre função social da escola:""",
+Durante um encontro de formação continuada sobre o
+papel da escola pública, professores debatiam as
+transformações históricas da instituição escolar brasileira
+ e os desafios contemporâneos da prática docente. Uma
+das formadoras apresentou reflexões sobre como a
+escola, ao longo de sua trajetória histórica, foi se
+modificando em resposta às demandas dos diferentes
+grupos sociais que buscavam acesso à educação. A
+discussão envolveu a análise de como as lutas por
+democratização do ensino contribuíram para
+transformações nas políticas educacionais e nas práticas
+pedagógicas. Considerando as discussões acadêmicas sobre a função social da escola e os processos de
+democratização do ensino, analise as afirmativas
+apresentadas a seguir:
+I.A escola brasileira passou por transformações
+significativas ao longo de sua história, particularmente a
+partir das lutas sociais por ampliação do acesso à
+educação, que pressionaram por mudanças na
+legislação, nas políticas públicas e nas práticas
+pedagógicas desenvolvidas nas instituições de ensino.
+II.Os processos de luta pelo acesso à educação revelam
+que, mesmo quando os resultados práticos não
+correspondem integralmente às expectativas iniciais dos
+grupos envolvidos, tais movimentos despertam nos
+sujeitos o reconhecimento do valor do conhecimento e o
+desejo legítimo pela aprendizagem como direito
+fundamental.
+III.A efetivação de políticas educacionais inclusivas
+demanda a compreensão de que a participação ativa dos
+diversos segmentos da comunidade escolar na
+elaboração e execução das ações educativas contribui
+para a legitimidade e a adequação dessas políticas às
+necessidades reais dos estudantes e suas famílias.
+ É correto o que se afirmar:""",
 "opcoes":[
 "I.",
 "I, II e III.",
@@ -394,7 +515,32 @@ Sobre função social da escola:""",
 {
 "pergunta": """**Questão 16**
 
-Sobre organização metodológica:""",
+Durante uma formação sobre práticas pedagógicas,
+professores discutiam estratégias para tornar o ensino
+mais efetivo. Uma formadora destacou que o
+planejamento docente deve considerar que a
+aprendizagem acontece por diferentes meios e que o
+professor precisa articular os conhecimentos prévios dos
+estudantes com os conteúdos escolares, utilizando
+metodologias variadas. Considerando os princípios da
+organização metodológica do ensino, analise as
+afirmativas apresentadas a seguir:
+I.O planejamento pedagógico deve reconhecer que os
+estudantes vivenciam experiências de aprendizagem em
+diversos contextos sociais, cabendo ao professor
+articular esses conhecimentos com os conteúdos
+curriculares por meio de estratégias diversificadas.
+II.A prática docente sistemática e organizada na escola
+constitui elemento fundamental para o desenvolvimento
+de aprendizagens significativas, exigindo do professor
+domínio metodológico para mediar os processos de
+ensino-aprendizagem.
+III.A utilização de múltiplas estratégias de ensino
+possibilita atender às diferentes formas de aprendizagem
+dos estudantes, contribuindo para a construção de
+conhecimentos de modo mais abrangente e
+contextualizado.
+É correto o que se afirma em:""",
 "opcoes":[
 "II e III.",
 "III.",
@@ -408,7 +554,29 @@ Sobre organização metodológica:""",
 {
 "pergunta": """**Questão 17**
 
-Associe corretamente:""",
+Durante o planejamento de uma unidade didática, um
+professor refletiu sobre como organizar atividades que
+desenvolvessem a autonomia intelectual dos estudantes.
+Ele considerou que a aprendizagem é um processo que
+envolve tempo, prática sistemática e adaptação,
+respeitando as diferentes formas e ritmos com que cada
+pessoa aprende. Ao estruturar sua proposta pedagógica,
+identificou elementos essenciais para esse
+desenvolvimento. Associe a segunda coluna de acordo
+com a primeira:
+Primeira coluna: dimensão formativa
+1.Desenvolvimento de capacidades de pensamento
+2.Cultivo de hábitos para o trabalho intelectual
+3.Processo formativo pela experiência do estudo
+Segunda coluna: característica
+(__)Capacidade de análise, raciocínio e compreensão
+dos conteúdos estudados.
+(__)Aprendizagem adquirida por meio de prática
+sistemática e processos individuais de adaptação.
+(__)Formação que ocorre pela própria vivência do ato de
+estudar, transformando o sujeito.
+Assinale a alternativa que apresenta a correta
+associação entre as colunas:""",
 "opcoes":[
 "2-3-1",
 "1-3-2",
@@ -422,7 +590,35 @@ Associe corretamente:""",
 {
 "pergunta": """**Questão 18**
 
-Associe PPP:""",
+Uma escola está revisando seu Projeto Político
+Pedagógico com o objetivo de tornar os processos de
+planejamento mais participativos e democráticos. A
+equipe gestora estudou propostas contemporâneas
+sobre práticas educacionais colaborativas que valorizam
+ o envolvimento ativo de diferentes atores na construção
+coletiva de conhecimentos e ações. Durante os estudos,
+foram identificados três elementos fundamentais para
+processos educacionais verdadeiramente colaborativos e
+democráticos. Associe a segunda coluna de acordo com
+ a primeira, relacionando os elementos a suas respectivas cacterísticas:
+Primeira coluna: elemento
+1.Participação
+2.Cocriação
+3.Corresponsabilidade
+Segunda coluna: características
+(__)Criação coletiva de novos significados e ações que
+surgem do conjunto de relações em processos
+fundamentados em estrutura participativa que estimula o
+envolvimento de grupos com diferentes expertises.
+(__)Envolvimento e adesão em processos de construção
+de cidadania e promoção do protagonismo por meio de
+instâncias de diálogo e construção coletivas não
+excludentes.
+(__)Compreensão dos efeitos das ações conjuntas e
+compromisso coletivo na geração de estruturas sociais e
+institucionais inclusivas e equitativas.
+Assinale a alternativa que apresenta a correta
+associação entre as colunas:""",
 "opcoes":[
 "2-1-3",
 "3-1-2",
@@ -436,7 +632,30 @@ Associe PPP:""",
 {
 "pergunta": """**Questão 19**
 
-V/F PPP:""",
+Uma equipe de professores estava elaborando o Projeto
+Político-Pedagógico de sua escola e discutia sobre como
+garantir que o documento refletisse efetivamente os
+interesses e a diversidade da comunidade escolar.
+Durante os estudos, analisaram reflexões sobre
+qualidade social da educação e autonomia pedagógica.
+Considere as afirmativas sobre construção coletiva do
+projeto pedagógico apresentadas a seguir. Registre V,
+para verdadeiras, e F, para falsas:
+(__)A qualidade social da educação efetiva-se de forma
+coletiva quando os usuários da escola participam
+diretamente de sua construção, podendo definir
+caminhos para efetivação do projeto pedagógico.
+(__)A adoção de currículos únicos e padronizados em
+toda a rede escolar garante o direito de todos ao
+conhecimento nacional e estimula o processo criativo de
+produção de projetos pedagógicos.
+(__)A construção do projeto pedagógico deve considerar
+as condições materiais de vida e a realidade dos
+estudantes como elementos fundamentais para uma
+educação crítica e emancipatória.
+Assinale a alternativa que apresenta a sequência
+correta:
+:""",
 "opcoes":[
 "F-F-V",
 "F-V-F",
@@ -450,7 +669,19 @@ V/F PPP:""",
 {
 "pergunta": """**Questão 20**
 
-Educação inclusiva:""",
+Durante uma formação continuada, professores
+discutiam sobre a constituição da escola brasileira e os
+processos de acesso e permanência de diferentes
+grupos sociais ao longo do tempo. Uma professora
+questionou se a presença de grupos historicamente
+excluídos nas instituições escolares ocorreu
+principalmente por políticas públicas de universalização
+do ensino ou se houve outras formas de relação desses
+grupos com a educação. A formadora apresentou
+diferentes perspectivas sobre como compreender essa
+questão. Considerando princípios de educação inclusiva
+ e a formação docente, a compreensão que orienta
+adequadamente a prática pedagógica é:""",
 "opcoes":[
 "Protagonismo social.",
 "Filantropia.",
@@ -461,58 +692,30 @@ Educação inclusiva:""",
 "resposta":0
 },
 
-# AEE
+{
+"pergunta": """**Questão 21**
 
-{
-"pergunta":"**Questão 21**",
-"opcoes":["A","B","C","D","E"],
-"resposta":2
-},
-{
-"pergunta":"**Questão 22**",
-"opcoes":["A","B","C","D","E"],
-"resposta":1
-},
-{
-"pergunta":"**Questão 23**",
-"opcoes":["A","B","C","D","E"],
-"resposta":1
-},
-{
-"pergunta":"**Questão 24**",
-"opcoes":["A","B","C","D","E"],
-"resposta":3
-},
-{
-"pergunta":"**Questão 25**",
-"opcoes":["A","B","C","D","E"],
+Segundo a Resolução CEE/SC n.° 100, de 13 de
+dezembro de 2016, o público da Educação Especial é
+formado pelos estudantes com:""",
+"opcoes":[
+"Deficiência sensorial, intelectual e física e Transtorno
+do Espectro Autista (TEA).",
+"Deficiência intelectual e física, Transtorno do
+Espectro Autista (TEA), Transtorno de Déficit de
+Atenção/Hiperatividade (TDAH), Disortografia e Altas
+habilidades/Superdotação (AH/SD).",
+"Deficiência, Transtorno do Espectro Autista (TEA),
+Transtorno de Déficit de Atenção/Hiperatividade
+(TDAH) e Altas Habilidades/Superdotação (AH/SD)",
+"Deficiência sensorial, intelectual e física; Transtorno
+do Espectro Autista (TEA) e Dislexia e Discalculia.",
+"Deficiência sensorial, intelectual e física; Transtorno
+do Espectro Autista (TEA) e Altas
+Habilidades/Superdotação (AH/SD)."
+],
 "resposta":4
 },
-{
-"pergunta":"**Questão 26**",
-"opcoes":["A","B","C","D","E"],
-"resposta":1
-},
-{
-"pergunta":"**Questão 27**",
-"opcoes":["A","B","C","D","E"],
-"resposta":4
-},
-{
-"pergunta":"**Questão 28**",
-"opcoes":["A","B","C","D","E"],
-"resposta":1
-},
-{
-"pergunta":"**Questão 29**",
-"opcoes":["A","B","C","D","E"],
-"resposta":0
-},
-{
-"pergunta":"**Questão 30**",
-"opcoes":["A","B","C","D","E"],
-"resposta":0
-}
 
 ]
 
