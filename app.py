@@ -699,8 +699,7 @@ Segundo a Resolução CEE/SC n.° 100, de 13 de
 dezembro de 2016, o público da Educação Especial é
 formado pelos estudantes com:""",
 "opcoes":[
-"Deficiência sensorial, intelectual e física e Transtorno
-do Espectro Autista (TEA).",
+""Deficiência sensorial, intelectual e física e Transtorno do Espectro Autista (TEA)."",
 "Deficiência intelectual e física, Transtorno do
 Espectro Autista (TEA), Transtorno de Déficit de
 Atenção/Hiperatividade (TDAH), Disortografia e Altas
